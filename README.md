@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository
+
+This respository is for learning purposes, I repeat this repository is for learning purposes.
+
+Thank you
